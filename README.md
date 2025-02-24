@@ -20,6 +20,7 @@ See [versions.txt](versions.txt)
 
 - libusb-1.0-0 v.1.0.21 or higher
 - pkg-config
+- cmake
 
 ## How to build and evaluate
 
