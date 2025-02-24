@@ -18,7 +18,7 @@ See [versions.txt](versions.txt)
 
 ## Dependencies
 
-- libusb-1.0-0 v.1.0.21 or higher
+- libusb-1.0-0 v.1.0.21 or higher (sudo apt-get install libusb-1.0-0-dev)
 - pkg-config
 - cmake
 
