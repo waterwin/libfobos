@@ -19,6 +19,7 @@ See [versions.txt](versions.txt)
 ## Dependencies
 
 - libusb-1.0-0 v.1.0.21 or higher
+- pkg-config
 
 ## How to build and evaluate
 
