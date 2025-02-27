@@ -1,0 +1,111 @@
+Browsing domain 'local' on -1.-1 ...
+Browsing domain '.' on -1.-1 ...
+Browsing for services of type '_sftp-ssh._tcp' in domain 'local' on 3.1 ...
+Browsing for services of type '_http._tcp' in domain 'local' on 3.1 ...
+Browsing for services of type '_ssh._tcp' in domain 'local' on 3.1 ...
+Browsing for services of type '_googlecast._tcp' in domain 'local' on 3.1 ...
+Browsing for services of type '_ka9q-ctl._udp' in domain 'local' on 3.1 ...
+Browsing for services of type '_rtp._udp' in domain 'local' on 3.1 ...
+Browsing for services of type '_androidtvremote2._tcp' in domain 'local' on 3.1 ...
+Browsing for services of type '_sftp-ssh._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_ssh._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_ipp._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_https._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_http._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_googlecast._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_ka9q-ctl._udp' in domain 'local' on 3.0 ...
+Browsing for services of type '_rtp._udp' in domain 'local' on 3.0 ...
+Browsing for services of type '_androidtvremote2._tcp' in domain 'local' on 3.0 ...
+Browsing for services of type '_rtp._udp' in domain 'local' on 2.1 ...
+Browsing for services of type '_ka9q-ctl._udp' in domain 'local' on 2.1 ...
+Browsing for services of type '_rtp._udp' in domain 'local' on 2.0 ...
+Browsing for services of type '_ka9q-ctl._udp' in domain 'local' on 2.0 ...
+Browsing for services of type '_rtp._udp' in domain 'local' on 1.0 ...
+Browsing for services of type '_ka9q-ctl._udp' in domain 'local' on 1.0 ...
+Found service 'rp-f083bf SFTP-SSH' of type '_sftp-ssh._tcp' in domain 'local' on 3.1.
+Found service 'rp-f08a03 SFTP-SSH' of type '_sftp-ssh._tcp' in domain 'local' on 3.1.
+Found service 'rp-f083bf HTTP' of type '_http._tcp' in domain 'local' on 3.1.
+Found service 'rp-f08a03 HTTP' of type '_http._tcp' in domain 'local' on 3.1.
+Found service 'rp-f083bf SSH' of type '_ssh._tcp' in domain 'local' on 3.1.
+Found service 'rp-f08a03 SSH' of type '_ssh._tcp' in domain 'local' on 3.1.
+Found service 'Bouygtel4K-0b6fa77a4f86a7949585ec46bfd8cd9f' of type '_googlecast._tcp' in domain 'local' on 3.1.
+Found service 'rx888 wsprdaemon' of type '_ka9q-ctl._udp' in domain 'local' on 3.1.
+Found service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 3.1.
+Found service 'beelink wspr' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'beelink ft8' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'beelink hf manual' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'fobos-wd hf manual' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'fobos-wd wspr' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'fobos-wd ft8' of type '_rtp._udp' in domain 'local' on 3.1.
+Found service 'Bouygtel4K' of type '_androidtvremote2._tcp' in domain 'local' on 3.1.
+Found service 'rp-f083bf SFTP-SSH' of type '_sftp-ssh._tcp' in domain 'local' on 3.0.
+Found service 'rp-f08a03 SFTP-SSH' of type '_sftp-ssh._tcp' in domain 'local' on 3.0.
+Found service 'rp-f0901f SSH' of type '_ssh._tcp' in domain 'local' on 3.0.
+Found service 'rp-f083bf SSH' of type '_ssh._tcp' in domain 'local' on 3.0.
+Found service 'rp-f08a03 SSH' of type '_ssh._tcp' in domain 'local' on 3.0.
+Found service 'bbox Ippos Printer' of type '_ipp._tcp' in domain 'local' on 3.0.
+Found service 'bbox Secure Setup' of type '_https._tcp' in domain 'local' on 3.0.
+Found service 'rp-f0901f HTTP' of type '_http._tcp' in domain 'local' on 3.0.
+Found service 'bbox Setup' of type '_http._tcp' in domain 'local' on 3.0.
+Found service 'myrouter' of type '_http._tcp' in domain 'local' on 3.0.
+Found service 'rp-f083bf HTTP' of type '_http._tcp' in domain 'local' on 3.0.
+Found service 'rp-f08a03 HTTP' of type '_http._tcp' in domain 'local' on 3.0.
+Found service 'Bouygtel4K-0b6fa77a4f86a7949585ec46bfd8cd9f' of type '_googlecast._tcp' in domain 'local' on 3.0.
+Found service 'rx888 wsprdaemon' of type '_ka9q-ctl._udp' in domain 'local' on 3.0.
+Found service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 3.0.
+Found service 'beelink wspr' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'beelink ft8' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'beelink hf manual' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'fobos-wd hf manual' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'fobos-wd wspr' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'fobos-wd ft8' of type '_rtp._udp' in domain 'local' on 3.0.
+Found service 'Bouygtel4K' of type '_androidtvremote2._tcp' in domain 'local' on 3.0.
+Found service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 2.1.
+Found service 'fobos-wd hf manual' of type '_rtp._udp' in domain 'local' on 2.1.
+Found service 'fobos-wd wspr' of type '_rtp._udp' in domain 'local' on 2.1.
+Found service 'fobos-wd ft8' of type '_rtp._udp' in domain 'local' on 2.1.
+Found service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 2.1.
+Found service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 2.0.
+Found service 'fobos-wd hf manual' of type '_rtp._udp' in domain 'local' on 2.0.
+Found service 'fobos-wd wspr' of type '_rtp._udp' in domain 'local' on 2.0.
+Found service 'fobos-wd ft8' of type '_rtp._udp' in domain 'local' on 2.0.
+Found service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 2.0.
+Found service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 1.0.
+Found service 'fobos-wd hf manual' of type '_rtp._udp' in domain 'local' on 1.0.
+Found service 'fobos-wd wspr' of type '_rtp._udp' in domain 'local' on 1.0.
+Found service 'fobos-wd ft8' of type '_rtp._udp' in domain 'local' on 1.0.
+Found service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 1.0.
+Service data for service 'rp-f083bf HTTP' of type '_http._tcp' in domain 'local' on 3.1:
+	Host rp-f083bf.local (2001:861:c61:ca50:226:32ff:fef0:83bf), port 80, TXT data: []
+Service data for service 'rx888 wsprdaemon' of type '_ka9q-ctl._udp' in domain 'local' on 3.1:
+	Host hf.local (239.135.38.120), port 5006, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'Fobos_HF' of type '_ka9q-ctl._udp' in domain 'local' on 3.1:
+	Host fobos.local (239.85.217.87), port 5006, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft8' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft8-pcm.local (239.22.92.109), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
+Service data for service 'fobos-wd ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=fobos-wd', 'pid=1134046', 'TTL=0']
+Service data for service 'beelink ft4' of type '_rtp._udp' in domain 'local' on 3.1:
+	Host ft4-pcm.local (239.144.102.209), port 5004, TXT data: ['source=beelink', 'pid=41558', 'TTL=0']
